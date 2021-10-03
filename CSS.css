@@ -1,40 +1,38 @@
-section h2 {
-color: rgb(0, 0, 0);
-border: 5px solid;
-text-align: center;
-font-size: 50px;
-background-color: slateblue;
-margin:5%;
-padding: 5px;
+.ez {
+color: red;
+font-size: 2cm;
+font-family: cursive;
 }
-section img {
-    height: auto;
-    width: 500px;
+.hard {
+color: green;
+font-size: 2cm;
+font-family: cursive;
+}
+div {
     text-align: center;
-    border: 5px solid;
-    color: rgb(32, 5, 5);
 }
 body {
-background-color: rgb(182, 132, 67);
-text-align: center;
-border: 10px solid;
-text-align: center;
-}
-section ul {
+background-color: orange;
+border: 0.15cm red solid;
+height: 900px;
 
-font-style: oblique;
-font-size: 20px;
-margin:1cm;
-text-align: center;
+
+
+
+
+
+
 
 }
-section h1 {
-color: rgb(0, 0, 0);
-border: 5px solid;
-padding: 1cm;
-margin: 1cm;
-background-color: slateblue;
-font-size: 28px;
+img {
+border:0.15cm red solid;
+height: 10cm;
+
+
 }
 
-
+ul {
+text-align: center;
+font-size: 0.8cm;
+font-family: cursive;
+}
