@@ -1,0 +1,43 @@
+body {
+background-color: rgb(0, 206, 89);
+color: red;
+font-family: cursive;
+font-size: 2.5cm;
+text-align: center;
+border:0.4cm red solid;
+}
+#part1  h2 {
+color: green;
+background-color: brown;
+text-align: center;
+font-size: 2cm;
+font-family: cursive;
+}
+ #part1 h1 {
+     color: rgb(139, 42, 3);
+     font-family: cursive;
+     text-align: center;
+     font-size: 3cm;
+ }
+ #part1 {
+font-size: 1cm;
+text-align: left;
+font-family: cursive;
+ }
+
+ img {
+     text-align: center;
+     border: 0.1cm red solid;
+     height:700px;
+ }
+ a {
+    font-size: 1cm;
+    font-family: initial;
+ }
+ 
+
+
+
+
+
+ 
