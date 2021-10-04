@@ -1,32 +1,40 @@
 .ez {
 color: red;
-font-size: 2cm;
+font-size: 1cm;
 font-family: cursive;
+background-color: chartreuse;
+border: 0.1cm red solid;
+width: fit-content;
+margin:auto;
+margin-top: 40px;
+margin-bottom: 40px
 }
 .hard {
 color: green;
-font-size: 2cm;
+font-size: 1cm;
 font-family: cursive;
+background-color: red;
+border: 0.1cm black solid;
+
+text-align: center;
+
 }
 div {
     text-align: center;
 }
+
 body {
 background-color: orange;
 border: 0.15cm red solid;
-height: 900px;
-
-
-
-
-
-
 
 
 }
-img {
+img
+ {
 border:0.15cm red solid;
-height: 10cm;
+height: 250px;
+width: auto;
+
 
 
 }
@@ -35,4 +43,8 @@ ul {
 text-align: center;
 font-size: 0.8cm;
 font-family: cursive;
+}
+
+.x {
+width:60% ;
 }

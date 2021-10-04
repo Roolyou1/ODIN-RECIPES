@@ -1,0 +1,39 @@
+div {
+
+color: black;
+font-family: cursive;
+font-size: 0.5cm;
+text-align: left;
+font-style: italic;
+font-weight: bold
+;
+}
+h2 {
+background-color: darkgoldenrod;
+color: black;
+text-align: left;
+font-size: 0.7cm;
+
+}
+ul {
+text-align: left;
+}
+.Tacos,.Tacoss {
+text-align: center;
+color: black;
+background-color: darkgoldenrod;
+}
+body {
+background-color: rgb(146, 135, 133);
+border: 0.1cm rgb(0, 0, 0) solid
+}
+img {
+border: 0.8cm black solid;
+height: auto;
+width: 500px;
+}
+.debut {
+text-align: center;
+font-size: 1.2cm;
+color: black;
+}

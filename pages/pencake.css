@@ -1,0 +1,34 @@
+.top1,.top {
+text-align: center;
+font-size: 0.9cm;
+background-color:darkgray
+
+}
+
+.ez {
+text-align: center;
+
+}
+img {
+text-align: center;
+border: 0.1cm red solid;
+height: 400px;
+width: 600px;
+}
+body {
+background-color:dimgray ;
+border: ghostwhite 0.2cm solid;
+}
+.second {
+text-align: left;
+font-size: 0.8cm;
+
+}
+h2 {
+text-align: center;
+font-size: 1.4cm;
+background-color: gray;
+}
+section {
+text-align: center;
+}
